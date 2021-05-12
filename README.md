@@ -11,3 +11,7 @@ avec les variables suivantes:
 2. **cheveux**(b:courts, B: longs), 
 3. **barbe**(c: absence, C: longues, k: daltonien), 
 4. **mouchetache**(d: abasence,D:petite, m:moyenne, T: grosse) 
+   
+## Image de notre dataset
+
+![dataset robo](db.png)
