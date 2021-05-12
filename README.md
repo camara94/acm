@@ -24,3 +24,7 @@ en ACM, on a la notion de tableau dijonctif complet qui signifie que dans chaque
 
 ## La répresentation graphique
 ![representation graphique](representationgraphique.png)
+
+## Objectif de l'ACM
+![objectif 1](objectifacm.png)
+![objectif 2](objectifacm2.png)
