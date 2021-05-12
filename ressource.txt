@@ -1,0 +1,18 @@
+
+decrivons d'abord à quel tableau s'applique l'analyse des composantes multiples:
+l'ACM s'applique aux tableaux rectanglaire avec J le nombre de variables qualitatives 
+, I le nombre d'observations ou encore le d'individus et 
+xij : modalité de la variable où I personne sont intérogées sur J questions à choix 
+multiples.
+
+nous appliquées notre sur une base de donnée qui contient 8 portraits robots
+avec les variables suivantes: lunettes(a:absence, A: presence), cheveux(b:courts, B: longs), barbe(c: absence, C: longues, k: daltonien), mouchetache(d: abasence,D:petite, m:moyenne, T: grosse) 
+
+
+les objectifs de l'analyse des correspondandances multiples sur un tel tableau est d'étudier la variabilité  et la ressemblance entre individu
+
+Résumé
+l'ACM étudie des tableaux individus x variables quantitatives
+A partir d'un petit tableau, l'ACM met en évidence les éléments de cette façon hiérarchisée
+Ressources:
+https://www.youtube.com/watch?v=bihScz3OXbw&ab_channel=Fran%C3%A7oisHusson
