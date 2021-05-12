@@ -18,3 +18,6 @@ avec les variables suivantes:
 ## Explication d'une modalité
 en ACM, on a la notion de tableau dijonctif complet qui signifie que dans chaque modalité on veut qu'une seule fois un(1) cet un obligatoire
 ![modalite](modalites.png)
+
+## Le tableau Dijonctif
+![tdc](tableaudijonctioncomplet.png)
