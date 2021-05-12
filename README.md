@@ -21,3 +21,6 @@ en ACM, on a la notion de tableau dijonctif complet qui signifie que dans chaque
 
 ## Le tableau Dijonctif
 ![tdc](tableaudijonctioncomplet.png)
+
+## La répresentation graphique
+![representation graphique](representationgraphique.png)
