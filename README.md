@@ -15,3 +15,5 @@ avec les variables suivantes:
 ## Image de notre dataset
 
 ![dataset robo](db.png)
+## Explication d'une modalité
+![modalite](modalites.png)
